@@ -2,7 +2,7 @@
 
 Platzom es un idioma inventado realizado en JavaScript.
 
-## Descripción del
+## Descripción
 
 En este se ejercicio se creará un nuevo lenguaje llamado 'platzom'
 El cual tiene las siguientes reglas:
@@ -21,7 +21,7 @@ El cual tiene las siguientes reglas:
  se devuelve la misma palabra pero intercalando letras mayúsculas y minúsculas.
  Ejemplo: "sometemos" => "SoMeTeMoS"
 
- ## Instalción
+ ## Instalación
 
 ```
  npm install platzom
